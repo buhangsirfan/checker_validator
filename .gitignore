@@ -1,0 +1,6 @@
+node_modules/
+valid.txt
+bad.txt
+forbidden.txt
+unknown.txt
+*.log
